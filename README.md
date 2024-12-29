@@ -15,7 +15,9 @@
   </a>
 </p>
 
-<h2 align="center">Lanyard (Live Discord Presence)</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord" alt="Typing SVG" />
+</h1>
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/115933106061574147?theme=dark&bg=1e1e1e&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20coding..." alt="Lanyard Presence" />
 </p>
