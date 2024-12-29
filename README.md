@@ -6,70 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Server's" alt="Typing SVG" />
 </h1>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Discord Buttons</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
+<p align="center">
+  <a href="https://discord.gg/uptime">
+    <img src="https://img.shields.io/badge/Uptime%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Uptime Discord">
+  </a>
+  <a href="https://discord.gg/uptimebot">
+    <img src="https://img.shields.io/badge/UptimeBot%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="UptimeBot Discord">
+  </a>
+</p>
 
-    .discord-buttons {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 15px;
-    }
-
-    .discord-button {
-      display: flex;
-      align-items: center;
-      background-color: #7289da;
-      color: white;
-      text-decoration: none;
-      padding: 10px 20px;
-      border-radius: 5px;
-      font-size: 16px;
-      font-weight: bold;
-      transition: background-color 0.3s ease;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
-
-    .discord-button img {
-      width: 24px;
-      height: 24px;
-      margin-right: 10px;
-    }
-
-    .discord-button:hover {
-      background-color: #5b6eae;
-      box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
-    }
-  </style>
-</head>
-<body>
-  <div class="discord-buttons">
-    <a href="https://discord.gg/uptime" class="discord-button">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/discord-logo.png" alt="Discord Logo" />
-      Uptime Discord'a Katıl
-    </a>
-    <a href="https://discord.gg/uptimebot" class="discord-button">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/discord-logo.png" alt="Discord Logo" />
-      UptimeBot Discord'a Katıl
-    </a>
-  </div>
-</body>
-</html>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFA500&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Languages+and+Tools" alt="Typing SVG" />
