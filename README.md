@@ -3,19 +3,6 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Server's" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://discord.gg/uptime">
-    <img src="https://img.shields.io/badge/Uptime%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Uptime Discord">
-  </a>
-  <a href="https://discord.gg/uptimebot">
-    <img src="https://img.shields.io/badge/UptimeBot%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="UptimeBot Discord">
-  </a>
-</p>
-
-<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord" alt="Typing SVG" />
 </h1>
 <p align="center">
