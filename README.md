@@ -20,7 +20,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f7ra&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1955&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 <h1 align="center">
@@ -28,7 +28,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f7ra&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0x1955&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <h1 align="center">
@@ -36,5 +36,5 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=f7ra&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0x1955&theme=radical" alt="GitHub Trophies" />
 </div>
